@@ -1,6 +1,7 @@
 # This is a test project 
 
-Please check out the [NUS] (www.nus.edu.sg/) website 
+please check out the [NUS](https://www.nus.edu.sg/) website
+
 
 Please also to
 
